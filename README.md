@@ -1,7 +1,7 @@
 [![codewars](https://www.codewars.com/users/getout77/badges/small)](https://www.codewars.com/users/getout77)
 ![](https://komarev.com/ghpvc/?username=bulat0v)
-- 👋 Hi, I’m @bulat0v
-- 👀 I’m interested in backend programing
+- 👋 Hi, I’m Vitalii Bulatov
+- 👀 I’m a backend programmer
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulat0v)](https://github.com/bulat0v/github-readme-stats)
