@@ -4,7 +4,7 @@
 - 👀 I’m a backend programmer
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulat0v)](https://github.com/bulat0v/github-readme-stats)
+
 
 
 <!---
